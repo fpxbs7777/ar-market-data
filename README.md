@@ -53,4 +53,4 @@ Se requiere cuenta IOL solo para datos BCBA/bonos/Rofex. Yahoo cubre acciones US
 
 Puedo ayudarte con: instalación y configuración, paneles a medida (Top N por volumen), backtests CAPM/portfolios, opciones y futuros ROFEX, y mantenimiento.
 
-Contacto: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+Contacto: [tu-email@ejemplo.com](cintiaboos2192@gmail.com)
