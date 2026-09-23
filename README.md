@@ -49,6 +49,11 @@ df, fuente = serie("AAPL", desde="2025-01-01")      # Yahoo
 
 Se requiere cuenta IOL solo para datos BCBA/bonos/Rofex. Yahoo cubre acciones US, ADRs, ETFs, índices, FX y crypto sin credenciales. No es asesoramiento financiero.
 
+## Links
+
+- ☕ [Ko-fi](https://ko-fi.com/cintiaboos) · 🧉 [Cafecito](https://cafecito.app/cintiaboos)
+- 💻 [GitHub](https://github.com/fpxbs7777) · 💼 [LinkedIn](https://linkedin.com/in/cintiaboos)
+
 ## Servicios
 
 Puedo ayudarte con: instalación y configuración, paneles a medida (Top N por volumen), backtests CAPM/portfolios, opciones y futuros ROFEX, y mantenimiento.
